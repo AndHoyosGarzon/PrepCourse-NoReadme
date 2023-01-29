@@ -1,3 +1,3 @@
 Andres Hoyos
-
 Hola mundo
+estamos aprendiendo lo basico de git, tambien estoy aprendiendo a clonar y hacer commits 
